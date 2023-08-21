@@ -6,6 +6,7 @@ const chatbotToggler = document.querySelector(".chatbot-toggler");
 
 
 let userMessage;
+// create your own  API key then copy paste it here and remember to not share it with anyone :
 const API_KEY = "";
 
 const createChatLi = (message, className) => {
